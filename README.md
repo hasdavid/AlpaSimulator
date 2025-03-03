@@ -4,6 +4,10 @@ A simulator game where the player has to balance getting enough sleep and joinin
 
 ## Changelog
 
+### 1.2
+
+- Added bugs.
+
 ### 1.1
 
 - Added more stuff.
